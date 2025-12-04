@@ -1,6 +1,6 @@
 # Doctor Info Scraper
 
-**Python-based multi-page web scraper for doctor profiles with CSV export & ethical crawling (robots.txt compliant).**
+*Python-based multi-page web scraper for doctor profiles with CSV export & ethical crawling (robots.txt compliant).*
 
 ---
 
@@ -15,7 +15,7 @@
 
 Data is exported into structured CSV files for easy analysis. The scraper is **robots.txt compliant** and respects ethical scraping practices.
 
-This project demonstrates **web scraping, data extraction, regex usage, multi-page crawling, and structured data handling** — ideal for showcasing programming and automation skills.
+This project demonstrates **web scraping, data extraction, regex usage, multi-page crawling, and structured data handling**
 
 ---
 
@@ -23,9 +23,8 @@ This project demonstrates **web scraping, data extraction, regex usage, multi-pa
 
 - Multi-page crawling within a domain  
 - Extraction of doctor names, qualifications, specializations, and emails  
-- Duplicate filtering for clean results  
 - CSV export (can be extended to Google Sheets)  
-- Polite and ethical crawling with timeout handling  
+- Polite and ethical crawling with using RobotFileParser and timeout handling
 - Regex-based data extraction for accurate parsing  
 
 ---
